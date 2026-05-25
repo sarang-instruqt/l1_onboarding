@@ -1,0 +1,120 @@
+ # Advanced Training
+
+As you become more comfortable with daily support operations, you will gradually expand your troubleshooting knowledge and platform understanding.
+
+This section introduces advanced learning areas that will help strengthen your technical and operational support skills.
+
+---
+
+## Advanced Troubleshooting
+
+L1 Support engineers should continue improving their ability to investigate and diagnose issues efficiently.
+
+Areas to focus on include:
+
+- Sandbox failures
+- Platform access issues
+- Integration-related problems
+- Performance degradation
+- User environment troubleshooting
+- Common configuration issues
+
+> [!TIP]
+> Reviewing previously resolved tickets is a great way to learn common troubleshooting patterns.
+
+---
+
+## Infrastructure & Platform Architecture
+
+Understanding the overall platform architecture helps improve troubleshooting accuracy and escalation quality.
+
+Topics may include:
+
+- Sandbox infrastructure
+- Kubernetes environments
+- Cloud services
+- Internal platform components
+- Monitoring systems
+- Deployment workflows
+
+A higher-level understanding of platform infrastructure helps identify potential root causes faster.
+
+---
+
+## Monitoring & Observability
+
+Become familiar with monitoring and operational tools used by the support and engineering teams.
+
+Examples include:
+
+- Grafana dashboards
+- Status page monitoring
+- Operational alerts
+- Internal logs and metrics
+
+Understanding platform observability improves incident awareness and troubleshooting efficiency.
+
+---
+
+## Handling Difficult Customer Scenarios
+
+Support engineers may occasionally encounter complex or high-pressure customer interactions.
+
+Important skills include:
+
+- Remaining calm and professional
+- Setting expectations clearly
+- Communicating updates consistently
+- Escalating when necessary
+- Managing customer frustration professionally
+
+> [!IMPORTANT]
+> Clear communication and empathy are critical during high-impact incidents or escalations.
+
+---
+
+## API Knowledge
+
+Familiarize yourself with available API capabilities and documentation.
+
+Understanding APIs can help troubleshoot:
+
+- Integration issues
+- Authentication problems
+- Automation workflows
+- Platform connectivity concerns
+
+Useful resource:
+
+- [Instruqt API Documentation](#)
+
+---
+
+## Internal Learning Resources
+
+Continue exploring internal documentation and operational resources regularly.
+
+Examples include:
+
+- Troubleshooting guides
+- Engineering documentation
+- Incident retrospectives
+- Platform release notes
+- Internal training sessions
+
+---
+
+## Continuous Learning
+
+Support environments evolve continuously as the platform grows.
+
+Team members are encouraged to:
+
+- Stay updated on new features
+- Participate in internal learning sessions
+- Share knowledge with teammates
+- Improve troubleshooting workflows
+- Learn from incidents and escalations
+
+> [!NOTE]
+> Continuous learning and curiosity are essential for long-term growth within support operations.
