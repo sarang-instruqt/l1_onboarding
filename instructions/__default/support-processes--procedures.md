@@ -10,7 +10,7 @@ This section covers incident handling, escalation expectations, ticket prioritiz
 
 As an L1 Support team member, your responsibilities typically include:
 
-- Monitoring incoming tickets
+- Monitoring tickets
 - Performing initial troubleshooting
 - Categorizing and prioritizing issues
 - Responding to customers
@@ -54,12 +54,12 @@ Understand the impact level of incidents before escalating.
 
 ### Example Severity Levels
 
-| Severity | Description |
+| Severity | Description | 
 |---|---|
-| P1 | Critical platform outage or major customer impact |
-| P2 | Significant functionality affected |
-| P3 | Minor issues or degraded experience |
-| P4 | Informational requests or low-impact issues |
+| P1 | Critical platform outage or major customer impact (Critical) |
+| P2 | Significant functionality affected in clude as High (Hight Priority)  |
+| P3 | Minor issues or degraded experience (Medium) |
+| P4 | Informational requests or low-impact issues(Low)|
 
 ---
 
@@ -77,7 +77,7 @@ During a P1 incident:
 
 Useful resource:
 
-- [P1 Incident Response Guide](#)
+- [P1 Incident Response Guide](https://docs.google.com/document/d/1_4DC7gAHHio69osdpOnTbWczMCaYJxakCvvgqM1pJMY/edit?tab=t.0#heading=h.28f8qvm7r5c6)
 
 > [!IMPORTANT]
 > Never delay escalation for confirmed high-severity production incidents.
@@ -119,7 +119,7 @@ Ensure you understand:
 
 Useful resource:
 
-- [After-Hours Escalation Process](#)
+- [After-Hours Escalation Process](https://www.notion.so/instruqt/Process-Raising-Alerts-Manually-249fa4cf12ea80a1851bf7879a966aba#249fa4cf12ea80a5a983e29fd880147c)
 
 ---
 
@@ -149,8 +149,8 @@ Review the following internal resources regularly:
 
 Resources:
 
-- [Support Workflow Miro](#)
-- [Internal Troubleshooting Docs](#)
+- [Support Workflow Miro](https://miro.com/app/board/uXjVJlooogA=/?moveToWidget=3458764649699461639&cot=14)
+- [Standard Customer Response](https://docs.google.com/document/d/1RR8iodiC0MLMWJLm7fGVL-oqpWxKylTr/edit?usp=drive_link&ouid=113877898531434421440&rtpof=true&sd=true)
 
 ---
 
@@ -158,9 +158,8 @@ Resources:
 
 L1 Support works closely with:
 
-- L2 Support
-- Engineering
+- L2 Support (Engineering)
 - Customer Success
-- Operations teams
+- Product Team
 
 Clear communication and accurate troubleshooting information are essential for successful collaboration.

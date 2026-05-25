@@ -10,12 +10,11 @@ These tools are essential for daily support operations, communication, monitorin
 
 Access to:
 
-- Gmail
-- Google Drive
-- Google Docs
+- Gmail ( instruqt account)
+- Google Drive, Docs
 - Google Calendar
 
-These tools are used for internal communication, documentation, scheduling, and collaboration.
+These tools are used for internal communication, documentation, scheduling, and collaboration. 
 
 ---
 
@@ -25,17 +24,18 @@ These tools are used for internal communication, documentation, scheduling, and 
 
 Ensure you are added to:
 
-- Instruqt HQ Slack workspace
-- Customer-facing Slack workspace
-- Relevant support and operational channels
+- Instruqt (Customer-facing Slack workspace)
+- Instruqt HQ (Internal communication Slack workspace)
+> [!IMPORTANT]
+> Ensure you have to added in all the channel to see the upcoming customer and internal messege.
 
-Important channels may include:
+Important Internal channels may include:
 
-- `#support-team`
-- `#ops-alerts-prod`
-- `#ops-alerts-prod-critical`
-- `#ops-alerts-dev`
-- `#ops-alerts-dev-critical`
+- `#team-support`
+- `#customer-insights`
+- `#ask-product`
+- `#team-cs`
+- `#xebia-india-ops`
 
 > [!IMPORTANT]
 > Enable notifications for critical support and operational channels.
@@ -46,16 +46,16 @@ Important channels may include:
 
 Get access to:
 
-- Internal documentation
+- Internal documentation (shared drives)
 - Notion workspace
 - Support process documentation
-- Miro boards and workflows
+- zoom workspce
 
 Useful resources:
 
-- [Support Process Documentation](#)
-- [Internal Knowledge Base](#)
-- [Miro Workflow](#)
+- [Support Process Documentation](https://docs.instruqt.com/)
+- [Internal Knowledge Base](https://www.notion.so/instruqt/e7482f813d31456a93b2597fb98a4a49)
+- [Miro Workflow](https://miro.com/app/board/uXjVJlooogA=/?moveToWidget=3458764649699461639&cot=14)
 
 > [!TIP]
 > Bookmark frequently used documentation pages for faster access during support rotations.
@@ -73,11 +73,9 @@ Unthread is used for:
 - Ticket triage
 - Internal collaboration
 
-Request agent access if not already assigned.
+Link:
 
-Example link:
-
-- [Open Unthread](#)
+- [Open Unthread](https://instruqt.unthread.io/)
 
 ---
 
@@ -85,12 +83,13 @@ Example link:
 
 Ensure you have access to:
 
-- Production environment
-- Testing environment
+- Production environment : play.instruqt.com/manage/instruqt
+- Testing environment : play.instruqt.com/manage/instruqt-testing
+
 
 You should be able to:
 
-- Access tracks and sandboxes
+- Access tracks and Dasboard 
 - Review customer environments
 - Troubleshoot platform-related issues
 
@@ -106,6 +105,8 @@ Used for:
 - Observing system metrics
 - Troubleshooting incidents
 
+Link: - https://grafana.platform.instruqt.net/
+
 ### Status Page
 
 Used for:
@@ -113,6 +114,8 @@ Used for:
 - Viewing platform health
 - Monitoring maintenance events
 - Reviewing service disruptions
+
+Link : https://status.instruqt.com/
 
 ### Retool
 
@@ -129,6 +132,8 @@ Ensure access to:
 - Relevant repositories
 - Internal support documentation repositories
 - Engineering collaboration workflows
+
+Link : https://github.com/
 
 > [!NOTE]
 > Contact your mentor or team lead if you are missing access to any required platform or tool.

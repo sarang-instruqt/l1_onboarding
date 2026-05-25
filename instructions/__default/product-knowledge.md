@@ -72,11 +72,11 @@ Understand the different user roles available within the platform.
 
 Examples may include:
 
-- Administrators
-- Content Authors
-- Instructors
-- Learners
-- Support Users
+- Owner
+- Content Creator
+- Member
+- Instructor
+- Instructor (No invite creation )
 
 Permissions determine what actions users can perform within the platform.
 
@@ -88,11 +88,11 @@ Instruqt supports integrations with various external platforms and tools.
 
 Examples include:
 
-- Slack
-- GitHub
-- Cloud providers
-- Learning management systems
-- Monitoring tools
+- Salesforce
+- HubSpot
+- HubSpot (Using zapier)
+- LTI
+- Version control
 
 Understanding integrations helps troubleshoot customer setup and configuration issues.
 
@@ -118,9 +118,9 @@ Complete the Instruqt platform bootcamp if assigned during onboarding.
 
 Useful resources:
 
-- [Instruqt Documentation](#)
-- [Internal Product Documentation](#)
-- [Support Knowledge Base](#)
+- [Instruqt Documentation](https://docs.instruqt.com/)
+- [Instruqt Tutorials](https://instruqt.com/tutorials)
+- [Instruqt Bootcamp](https://get.instruqt.com/bootcamp/)
 
 > [!TIP]
 > Spend time exploring existing tracks and customer-facing labs to better understand the learner experience.

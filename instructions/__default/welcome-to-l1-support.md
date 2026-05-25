@@ -25,6 +25,4 @@ By the end of this onboarding lab, you should be able to:
 - Follow support expectations and best practices
 
 > [!NOTE]
-> If you have questions during onboarding, reach out to your mentor, team lead, or the #support-team Slack channel.
-
-Welcome to the team — we’re excited to have you here! 🚀
+> If you have questions during onboarding, reach out to your mentor, team lead, or the #xebia-india-ops Slack channel.
