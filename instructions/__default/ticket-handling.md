@@ -100,7 +100,8 @@ Examples:
 
 | Priority | Example |
 |---|---|
-| High | Production outage affecting multiple users |
+| Critical | Production outage affecting multiple users |
+| High | Platform issue or bug |
 | Medium | Feature partially unavailable |
 | Low | Informational request or minor issue |
 
@@ -120,7 +121,7 @@ Typical workflows include:
 
 Useful resource:
 
-- [Unthread Platform](#)
+- [Unthread Platform](https://instruqt.unthread.io/dashboard/home)
 
 ---
 
@@ -150,4 +151,4 @@ By the end of onboarding, you should be comfortable with:
 - Collaborating with internal teams
 
 > [!NOTE]
-> Continuous learning and consistent communication are key to becoming successful in L1 Support.
+> Continuous learning and consistent communication are key to becoming successful.
