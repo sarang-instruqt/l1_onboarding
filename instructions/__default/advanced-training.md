@@ -86,7 +86,7 @@ Understanding APIs can help troubleshoot:
 
 Useful resource:
 
-- [Instruqt API Documentation](#)
+- [Instruqt API Documentation](https://api-docs.instruqt.com/)
 
 ---
 

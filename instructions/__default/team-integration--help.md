@@ -56,18 +56,6 @@ New team members are encouraged to schedule 1:1 sessions with:
 - Understanding workflows
 - Building team relationships
 
----
-
-## Customer Success Meetings
-
-Join customer success meetings as an observer when possible.
-
-This helps provide additional visibility into:
-
-- Customer expectations
-- Platform adoption challenges
-- Common customer concerns
-- Communication best practices
 
 ---
 
