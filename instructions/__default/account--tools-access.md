@@ -60,6 +60,7 @@ Useful resources:
 
 - [Internal documentation](https://drive.google.com/drive/folders/1A_I4aJ1AyBivsRU94_vkqo_IS0Zf80vh)
 - [Linear workspace](https://linear.app/)
+- [Miro Workflow](https://miro.com/app/board/uXjVJlooogA=/)
 
 > [!TIP]
 > Bookmark frequently used documentation pages for faster access during support rotations.
