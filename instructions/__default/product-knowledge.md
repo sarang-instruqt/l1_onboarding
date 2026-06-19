@@ -59,7 +59,7 @@ Common sandbox types include:
 - Linux containers
 - Kubernetes clusters
 - Cloud environments
-- Development workspaces
+
 
 > [!NOTE]
 > Not all tracks require sandbox environments. Some onboarding or documentation-focused tracks may only contain instructional content.

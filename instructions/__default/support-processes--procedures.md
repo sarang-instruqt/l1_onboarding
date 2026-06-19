@@ -32,6 +32,7 @@ When reviewing tickets:
 - Gather relevant troubleshooting details
 - Check for existing incidents or known issues
 - Assign appropriate priority levels
+- Add tag
 
 Common ticket categories may include:
 
@@ -142,14 +143,11 @@ Good support responses should:
 Review the following internal resources regularly:
 
 - Support workflow documentation
-- Escalation flowcharts
-- Miro diagrams
 - Known issue documentation
 - Internal troubleshooting guides
 
 Resources:
 
-- [Support Workflow Miro](https://miro.com/app/board/uXjVJlooogA=/?moveToWidget=3458764649699461639&cot=14)
 - [Standard Customer Response](https://docs.google.com/document/d/1RR8iodiC0MLMWJLm7fGVL-oqpWxKylTr/edit?usp=drive_link&ouid=113877898531434421440&rtpof=true&sd=true)
 
 ---
