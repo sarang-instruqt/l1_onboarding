@@ -96,7 +96,7 @@ Examples include:
 
 Useful resource:
 
-- [Internal Knowledge Base](https://drive.google.com/drive/folders/1jSug0aaecFkInkURoLHheIi5G3pEzt3p)
+- [Internal Knowledge Base](https://drive.google.com/drive/folders/1yaRa1zHqzG1bL0Hoo1g9IMeKe7vu0n1B)
 
 ---
 
