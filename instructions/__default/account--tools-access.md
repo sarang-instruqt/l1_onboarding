@@ -5,14 +5,21 @@ As part of the L1 Support onboarding process, ensure you have access to all requ
 These tools are essential for daily support operations, communication, monitoring, collaboration, and troubleshooting.
 
 ---
+ 
+##  Access Tool
 
+- Linear workspace
+- Zoom workspce
+- Unthread
+- GitHub
+
+ 
 ## Google Workspace
 
 Access to:
 
 - Gmail ( instruqt account)
 - Google Drive, Docs
-- Google Calendar
 
 These tools are used for internal communication, documentation, scheduling, and collaboration. 
 
@@ -42,20 +49,17 @@ Important Internal channels may include:
 
 ---
 
-## Documentation & Internal Knowledge
+##  Internal Knowledge
 
 Get access to:
 
 - Internal documentation (shared drives)
-- Notion workspace
-- Support process documentation
-- zoom workspce
+
 
 Useful resources:
 
-- [Support Process Documentation](https://docs.instruqt.com/)
-- [Internal Knowledge Base](https://www.notion.so/instruqt/e7482f813d31456a93b2597fb98a4a49)
-- [Miro Workflow](https://miro.com/app/board/uXjVJlooogA=/?moveToWidget=3458764649699461639&cot=14)
+- [Internal documentation](https://drive.google.com/drive/folders/1A_I4aJ1AyBivsRU94_vkqo_IS0Zf80vh)
+- [Linear workspace](https://linear.app/)
 
 > [!TIP]
 > Bookmark frequently used documentation pages for faster access during support rotations.
@@ -83,8 +87,10 @@ Link:
 
 Ensure you have access to:
 
+- Instruqt environment : 
+play.instruqt.com
 - Production environment : play.instruqt.com/manage/instruqt
-- Testing environment : play.instruqt.com/manage/instruqt-testing
+- Support environment : play.instruqt.com/manage/instruqt-support
 
 
 You should be able to:
