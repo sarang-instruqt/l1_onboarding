@@ -78,7 +78,7 @@ During a P1 incident:
 
 Useful resource:
 
-- [P1 Incident Response Guide](https://docs.google.com/document/d/1_4DC7gAHHio69osdpOnTbWczMCaYJxakCvvgqM1pJMY/edit?tab=t.0#heading=h.28f8qvm7r5c6)
+- [P1 Incident Response Guide](https://uptime.betterstack.com/report/Avt4rr7V1dGzni5JEzqeBJqs3)
 
 > [!IMPORTANT]
 > Never delay escalation for confirmed high-severity production incidents.
@@ -148,7 +148,7 @@ Review the following internal resources regularly:
 
 Resources:
 
-- [Standard Customer Response](https://docs.google.com/document/d/1RR8iodiC0MLMWJLm7fGVL-oqpWxKylTr/edit?usp=drive_link&ouid=113877898531434421440&rtpof=true&sd=true)
+- [Standard Customer Response](https://drive.google.com/file/d/1cmzk0Tfwq819Nb2LMVYeSRBjOdz_jPQx/view)
 
 ---
 
