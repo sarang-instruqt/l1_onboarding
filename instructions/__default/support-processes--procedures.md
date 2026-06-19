@@ -120,7 +120,7 @@ Ensure you understand:
 
 Useful resource:
 
-- [After-Hours Escalation Process](https://www.notion.so/instruqt/Process-Raising-Alerts-Manually-249fa4cf12ea80a1851bf7879a966aba#249fa4cf12ea80a5a983e29fd880147c)
+- [After-Hours Escalation Process](https://uptime.betterstack.com/report/Avt4rr7V1dGzni5JEzqeBJqs3)
 
 ---
 
